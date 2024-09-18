@@ -18,8 +18,6 @@ My name is Rahul Bhardwaj and I am a final year CS Undergrad. I love building co
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
 
-## My badges :
-[![An image of @wraith2009's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@wraith2009)](https://www.holopin.io/@wraith2009)
 
 
 ## My Stats :
